@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+
+backend/.env
+
+security.db
+*.db
+
+model.pkl
+scaler.pkl
+
+frontend/node_modules/
+
+backend/reports/
